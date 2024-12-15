@@ -14,3 +14,7 @@ defaults:
       path: '_wadcoms'
     values:
       layout: bin
+
+sass:
+  sass_dir: _sass
+  css_dir: assets
